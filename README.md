@@ -41,15 +41,28 @@
 
 ### 📌 Featured Projects
 
-- [**codsoft**](https://github.com/Amit25122002/codsoft): Projects completed during my internship at CodSoft, primarily using Python.
-- [**CODSOFT.**](https://github.com/Amit25122002/CODSOFT.): A To-Do List Manager desktop application built with Tkinter.
+#### 🎬 Movie Recommendation System
+- **Repository:** [Movie-recommendation-System](https://github.com/Amit25122002/Movie-recommendation-System)
+- **Description:** Developed a content-based movie recommendation system using Python and Jupyter Notebook. Implemented techniques like TF-IDF Vectorization and cosine similarity to suggest movies similar to a user's choice.:contentReference[oaicite:2]{index=2}
+
+#### 🏥 Healthcare Data Analysis
+- **Repository:** [healthcareanalysis](https://github.com/Nikhil-ssd/healthcareanalysis)
+- **Description:** :contentReference[oaicite:4]{index=4}:contentReference[oaicite:6]{index=6}
+
+#### 🛒 Super Store Sales Analysis
+- **Repository:** [Super-Store-Sales-Analysis](https://github.com/Pragya-011/Super-Store-Sales-Analysis)
+- **Description:** :contentReference[oaicite:8]{index=8}:contentReference[oaicite:10]{index=10}
+
+#### ✅ To-Do List Manager
+- **Repository:** [CODSOFT.](https://github.com/Amit25122002/CODSOFT.)
+- **Description:** :contentReference[oaicite:12]{index=12}:contentReference[oaicite:14]{index=14}
 
 ---
 
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amit-tiwari-214197311)
-- 📧 Email: amit.tiwari@example.com
+- 📧 Email: amittiwari2122@gmail.com
 
 ---
 
