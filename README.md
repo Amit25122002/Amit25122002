@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image.png" alt="Amit Tiwari Banner" />
+  <img src="![Screenshot 2025-06-24 212340](https://github.com/user-attachments/assets/d24db09d-2828-4058-82be-db0b33f85a04)
+ />
 </p>
 
 <h1 align="center">Hi there, I'm Amit Tiwari 👋</h1>
