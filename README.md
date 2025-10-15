@@ -22,6 +22,7 @@
 ---
 
 ### 🔧 Technologies & Tools
+### 🧠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -29,6 +30,15 @@
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/-API%20Integration-FF9800?style=flat-square&logo=fastapi&logoColor=white)
+![Version Control](https://img.shields.io/badge/-Version%20Control-0A66C2?style=flat-square&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Hadoop](https://img.shields)
+
 
 ---
 
