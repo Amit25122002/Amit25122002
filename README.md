@@ -37,7 +37,7 @@
 ![API](https://img.shields.io/badge/-API%20Integration-FF9800?style=flat-square&logo=fastapi&logoColor=white)
 ![Version Control](https://img.shields.io/badge/-Version%20Control-0A66C2?style=flat-square&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Hadoop](https://img.shields)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
 
 ---
