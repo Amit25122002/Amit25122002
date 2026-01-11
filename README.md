@@ -6,9 +6,9 @@
 <h1 align="center">Hi there, I'm Amit Tiwari 👋</h1>
 
 <p align="center">
-  Data Operations Analyst @ NielsenIQ | Aspiring Data Analyst | IoT & ML Enthusiast  
+  Data Operations Analyst @ NielsenIQ | Transitioning toward Data Science  
   <br/>
-  Python • SQL • Power BI
+  Python • SQL • Power BI • ML
 </p>
 
 ---
@@ -17,8 +17,8 @@
 
 - 🎓 B.Tech graduate with a strong foundation in IoT, Data Analytics, and Machine Learning.
 - 💼 **Working full-time as a Data Operations Analyst at NielsenIQ**, handling real-world business data.
-- 📊 Interested in data analysis, visualization, and insight generation.
-- 🌍 Based in Bhopal, India.
+- 📊 Actively **leaning toward Data Science**, with interests in analytics, machine learning, and data-driven problem solving.
+- 🌍 Currently based in **Gurgaon, India**.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amit-tiwari-214197311)
 
 ---
